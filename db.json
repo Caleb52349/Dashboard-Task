@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "John Smith",
+      "username": "johnsmith",
+      "email": "john@smithc.com",
+      "city": "NYC",
+      "id": 1
+    },
+    {
+      "name": "Jane",
+      "username": "Smith",
+      "email": "Jane@gmail.com",
+      "city": "LA",
+      "id": 2
+    },
+    {
+      "name": "Caleb",
+      "username": "CTech",
+      "email": "Calebklasnic@yahoo.com",
+      "city": "Warsaw",
+      "id": 3
+    }
+  ]
+}
